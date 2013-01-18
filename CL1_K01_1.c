@@ -5,9 +5,9 @@
 
 void main(void) {
 	int x;
-	int num1, num2;
-	num1 = 15;
-	num2 = 37;
-    x = num1 + num2;
+	int y1, y2;
+	y1 = 15;
+	y2 = 37;
+    x = y1 + y2;
 	printf("num1+num2=%d‚Å‚·\n", x);
 }
