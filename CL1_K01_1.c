@@ -8,6 +8,6 @@ void main(void) {
 	int y1, y2;
 	y1 = 30;
 	y2 = 25;
-    x = y1 + y2;
-	printf("num1+num2=%d‚Å‚·\n", x);
+    x = y1 - y2;
+	printf("y1-y2=%d‚Å‚·\n", x);
 }
